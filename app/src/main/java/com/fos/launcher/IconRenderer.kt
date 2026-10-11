@@ -2,7 +2,7 @@ package com.fos.launcher
 
 import android.content.ComponentName
 import android.content.pm.LauncherActivityInfo
-import android.graphics.AdaptiveIconDrawable
+import android.graphics.drawable.AdaptiveIconDrawable
 import android.graphics.Bitmap
 import android.graphics.Canvas
 import android.graphics.Paint
